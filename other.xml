@@ -52,6 +52,12 @@
     <option name="MOVE_PREVIEW_USAGES" value="false" />
   </component>
   <component name="SvnApplicationSettings">
+    <option name="myTypedURLs">
+      <list>
+        <option value="svn://svn.code.sf.net/p/vimmer/code/trunk vimmer-code" />
+        <option value="https://svn.code.sf.net/p/vimmer/code/trunk vimmer-code" />
+      </list>
+    </option>
     <option name="mySvnCommandLine" value="C:\csvn\bin\svn.exe" />
   </component>
 </application>
