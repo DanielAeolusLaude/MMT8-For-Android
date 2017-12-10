@@ -4,6 +4,7 @@
       <mapping pattern="cgui2" type="PLAIN_TEXT" />
       <mapping pattern="cgui" type="PLAIN_TEXT" />
       <mapping pattern="main" type="PLAIN_TEXT" />
+      <mapping pattern="fluid_coding_style" type="PLAIN_TEXT" />
       <mapping pattern="doxygen" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
