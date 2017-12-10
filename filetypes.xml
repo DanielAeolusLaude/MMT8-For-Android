@@ -7,6 +7,7 @@
       <mapping pattern="fluid_coding_style" type="PLAIN_TEXT" />
       <mapping pattern="doxygen" type="PLAIN_TEXT" />
       <mapping pattern="mattsgui" type="PLAIN_TEXT" />
+      <mapping pattern="COPYING" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
