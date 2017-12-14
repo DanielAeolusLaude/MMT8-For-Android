@@ -8,6 +8,7 @@
       <mapping pattern="doxygen" type="PLAIN_TEXT" />
       <mapping pattern="mattsgui" type="PLAIN_TEXT" />
       <mapping pattern="COPYING" type="PLAIN_TEXT" />
+      <mapping ext="db" type="SQL" />
     </extensionMap>
   </component>
 </application>
