@@ -5,5 +5,9 @@
     <option name="PATTERN_ANNOTATION" value="org.intellij.lang.annotations.Pattern" />
     <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
     <option name="RESOLVE_REFERENCES" value="true" />
+    <injection language="ObjectiveC" injector-id="xml">
+      <display-name>RelativeLayout</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("RelativeLayout"))]]></place>
+    </injection>
   </component>
 </application>
