@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'C:\Users\DJohnson\AndroidStudioProjects\MMT8ForAndroid\app\src\main\cpp\MIDIToolkit\MIDIToolkitPrerequisites.h'" />
-    <option name="defaultScopeName" value="File 'C:\Users\DJohnson\AndroidStudioProjects\MMT8ForAndroid\app\src\main\cpp\MIDIToolkit\MIDIToolkitPrerequisites.h'" />
-    <option name="SEARCH_SCOPE" value="File 'C:\Users\DJohnson\AndroidStudioProjects\MMT8ForAndroid\app\src\main\cpp\MIDIToolkit\MIDIToolkitPrerequisites.h'" />
+    <option name="customScope" value="Directory 'C:\Users\DJohnson\AndroidStudioProjects\MMT8ForAndroid\app\src\main\cpp'" />
+    <option name="defaultScopeName" value="Directory 'C:\Users\DJohnson\AndroidStudioProjects\MMT8ForAndroid\app\src\main\cpp'" />
+    <option name="SEARCH_SCOPE" value="Directory 'C:\Users\DJohnson\AndroidStudioProjects\MMT8ForAndroid\app\src\main\cpp'" />
   </component>
 </application>
