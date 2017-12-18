@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Project 'MMT8ForAndroid'" />
     <option name="defaultScopeName" value="Project 'MMT8ForAndroid'" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project 'MMT8ForAndroid'" />
   </component>
 </application>

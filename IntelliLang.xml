@@ -9,5 +9,9 @@
       <display-name>RelativeLayout</display-name>
       <place><![CDATA[xmlTag().withLocalName(string().equalTo("RelativeLayout"))]]></place>
     </injection>
+    <injection language="ObjectiveC" injector-id="xml">
+      <display-name>service/@name</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("name")).withNamespace(string().equalTo("http://schemas.android.com/apk/res/android")).withParent(xmlTag().withLocalName(string().equalTo("service")))]]></place>
+    </injection>
   </component>
 </application>
